@@ -1,0 +1,97 @@
+# Altium Designer specific files and directories to ignore
+
+# History and backup files
+**/History/
+*.History
+*.Log
+*.log
+*.bak
+*.BAK
+*.~*
+
+# Previews and temporary files
+**/__Previews/
+*.PrjPcbStructure
+*.SchDocPreview
+*.PcbDocPreview
+*.PcbDoc.htm
+*.SchDoc.htm
+*.DS_Store
+*.$$$
+*.dmp
+*.idf
+*.idfreport
+*.IDFTemp
+
+# Output directories and generated files
+**/Project Outputs*/
+**/ProjectOutputs*/
+**/Project Logs*/
+**/Assembly Exports*/
+*.OutJob
+*.BomDoc
+*.DRC
+*.REP
+*.rpt
+*.pdf
+*.txt
+*.html
+*.xls
+*.xlsx
+*.csv
+*.gerber
+*.gbr
+*.drl
+*.nc
+*.pickplace
+*.step
+*.stp
+*.obj
+*.vrml
+*.x_t
+*.x_b
+*.sat
+*.stl
+*.igs
+*.iges
+*.3d
+*.emf
+*.wrl
+*.jpg
+*.png
+*.gif
+*.tif
+*.tiff
+*.bmp
+*.svg
+*.dwg
+*.dxf
+*.plt
+*.gcode
+*.zip
+*.rar
+*.7z
+*.gz
+*.tar
+*.iso
+
+# Altium Designer configuration and settings files
+*.ini
+*.ini_prev
+*.prefs
+*.settings
+*.user
+*.lic
+*.lock
+
+# Library files (if not intended for version control)
+*.LibPkg
+*.DbLib
+*.IntLib
+*.PcbLib
+*.SchLib
+*.SVN
+*.Git
+
+# Specific files to ignore
+*.dontinclude
