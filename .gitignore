@@ -85,11 +85,6 @@
 *.lock
 
 # Library files (if not intended for version control)
-*.LibPkg
-*.DbLib
-*.IntLib
-*.PcbLib
-*.SchLib
 *.SVN
 *.Git
 
