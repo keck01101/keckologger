@@ -137,6 +137,40 @@ GenerateClassCluster=0
 DocumentUniqueId=BIUZFVRK
 
 [Document6]
+DocumentPath=..\Library\MEM2090-00-145-00-A.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BJFSSJDV
+
+[Document7]
+DocumentPath=..\Library\MEM20900014500A.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BINGKXCN
+
+[Document8]
 DocumentPath=..\Library\QFN65P400X400X100-17N-D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BSNNUFJZ
 
-[Document7]
+[Document9]
 DocumentPath=PA1616D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYYPXAVT
 
-[Document8]
+[Document10]
 DocumentPath=..\Library\SOT95P280X100-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALMETFQH
 
-[Document9]
+[Document11]
 DocumentPath=..\Library\QFP50P1600X1600X160-100N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZCWAAUX
 
-[Document10]
+[Document12]
 DocumentPath=..\Library\LAMXO256C-3TN100E.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXTWLJHY
 
-[Document11]
+[Document13]
 DocumentPath=..\Library\BMI323.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKTYIMIV
 
-[Document12]
+[Document14]
 DocumentPath=..\Library\BMI323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMLQFSXW
 
-[Document13]
+[Document15]
 DocumentPath=..\Library\ADPL40502AUJZ-1.2-R7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJUMTPZG
 
-[Document14]
+[Document16]
 DocumentPath=..\Library\BMP390.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JASNWDYX
 
-[Document15]
+[Document17]
 DocumentPath=..\Library\BMP390.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JENKUJPB
 
-[Document16]
+[Document18]
 DocumentPath=PA1616D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,7 +357,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGGPGWNO
 
-[Document17]
+[Document19]
 DocumentPath=..\Library\LM1117IMPX-3.3_NOPB\VREG_LM1117IMPX-3.3_NOPB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -340,7 +374,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUENVAOW
 
-[Document18]
+[Document20]
 DocumentPath=..\Library\LM1117IMPX-3.3_NOPB\LM1117IMPX-3.3_NOPB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -357,7 +391,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZBLLSJAT
 
-[Document19]
+[Document21]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -374,7 +408,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHJJTGWN
 
-[Document20]
+[Document22]
 DocumentPath=Transmitter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -390,6 +424,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZNIDKLMF
+
+[Document23]
+DocumentPath=SD Card Reader.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EFRAWAPE
 
 [Configuration1]
 Name=Sources
