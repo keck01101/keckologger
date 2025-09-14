@@ -120,6 +120,40 @@ GenerateClassCluster=0
 DocumentUniqueId=XDKHWCEV
 
 [Document5]
+DocumentPath=..\Library\CC1150RGVR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BIUZFVRK
+
+[Document6]
+DocumentPath=..\Library\QFN65P400X400X100-17N-D.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BSNNUFJZ
+
+[Document7]
 DocumentPath=PA1616D.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -136,7 +170,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FYYPXAVT
 
-[Document6]
+[Document8]
 DocumentPath=..\Library\SOT95P280X100-5N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -153,7 +187,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ALMETFQH
 
-[Document7]
+[Document9]
 DocumentPath=..\Library\QFP50P1600X1600X160-100N.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -170,7 +204,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AZCWAAUX
 
-[Document8]
+[Document10]
 DocumentPath=..\Library\LAMXO256C-3TN100E.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -187,7 +221,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXTWLJHY
 
-[Document9]
+[Document11]
 DocumentPath=..\Library\BMI323.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -204,7 +238,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=SKTYIMIV
 
-[Document10]
+[Document12]
 DocumentPath=..\Library\BMI323.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -221,7 +255,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EMLQFSXW
 
-[Document11]
+[Document13]
 DocumentPath=..\Library\ADPL40502AUJZ-1.2-R7.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -238,7 +272,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AJUMTPZG
 
-[Document12]
+[Document14]
 DocumentPath=..\Library\BMP390.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -255,7 +289,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JASNWDYX
 
-[Document13]
+[Document15]
 DocumentPath=..\Library\BMP390.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -272,7 +306,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JENKUJPB
 
-[Document14]
+[Document16]
 DocumentPath=PA1616D.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -289,7 +323,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGGPGWNO
 
-[Document15]
+[Document17]
 DocumentPath=..\Library\LM1117IMPX-3.3_NOPB\VREG_LM1117IMPX-3.3_NOPB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -306,7 +340,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUENVAOW
 
-[Document16]
+[Document18]
 DocumentPath=..\Library\LM1117IMPX-3.3_NOPB\LM1117IMPX-3.3_NOPB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -323,14 +357,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ZBLLSJAT
 
-[Document17]
+[Document19]
 DocumentPath=GPS.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -339,6 +373,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WHJJTGWN
+
+[Document20]
+DocumentPath=Transmitter.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=5
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ZNIDKLMF
 
 [Configuration1]
 Name=Sources
@@ -1287,10 +1338,16 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=CC1150RGVR.SchLib
+ComponentDesignItemID0=CC1150RGVR
+ComponentSymbolReference0=CC1150RGVR
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1304,6 +1361,31 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Comment
+ParameterUpdate0=1
+ParameterName1=Component Kind
+ParameterUpdate1=1
+ParameterName2=Datasheet Link
+ParameterUpdate2=1
+ParameterName3=Description
+ParameterUpdate3=1
+ParameterName4=Geometry.Height
+ParameterUpdate4=1
+ParameterName5=Library Reference
+ParameterUpdate5=1
+ParameterName6=Manufacturer_Name
+ParameterUpdate6=1
+ParameterName7=Manufacturer_Part_Number
+ParameterUpdate7=1
+ParameterName8=Mouser Part Number
+ParameterUpdate8=1
+ParameterName9=Mouser Price/Stock
+ParameterUpdate9=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=QFN65P400X400X100-17N-D
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
